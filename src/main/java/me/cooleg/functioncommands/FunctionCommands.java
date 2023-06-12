@@ -16,8 +16,4 @@ public final class FunctionCommands extends JavaPlugin {
 
     }
 
-    @Override
-    public void onDisable() {
-        // Plugin shutdown logic
-    }
 }
