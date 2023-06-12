@@ -1,0 +1,4 @@
+name: FunctionCommands
+version: '${project.version}'
+main: me.cooleg.functioncommands.FunctionCommands
+api-version: 1.18
